@@ -1,0 +1,17 @@
+
+p{
+    color: maroon;
+}
+
+h1{
+    background-color: bisque;
+}
+h3{
+    background-color: rgba(131, 82, 23, 0.37);
+}
+
+h1+h3 {
+    color: blue;
+}
+
+.pTxt1 {color: rgb(20, 97, 20);}
